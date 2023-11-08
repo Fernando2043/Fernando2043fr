@@ -1,0 +1,26 @@
+{
+  "name": "Don Greer",
+  "age": 34,
+  "address": {
+    "street": "Gume Pass",
+    "city": "Zicibi",
+    "state": "SD",
+    "zip": "69793"
+  },
+  "contact": {
+    "phone": "(887) 756-5503",
+    "servicePhone": "800682941"
+  },
+  "birthday": "1995-06-06T12:31:06.977Z",
+  "ip": "191.214.227.192",
+  "foo": "bar",
+  "profile": {
+    "about": "Huz jico puged vehmubo is akpob idsiw pahechi amtormak nehvo bi susgunbij ahacuj. Delwedi rapu faw soz haajder ujju renewjes viw gigedek ohbe kidloni wom watugej paaniju jerecka vicom sardaf jo. Ordon sunut ujzifnep ta bazduzlak ru iswi sajgozpu urbujdo feca jizavfuh vomutrid.",
+    "bio": "Agewi hu bohsol jophez ot jebmirij de govefro wi caglobe rudi be pegcumo ejta wik. Kileh fis doju avkeja ca wif az revuz niklod tiwowav cin agajo nu olemud zod cu hezafal sa. Sos kudifede hofpukon ave woc erofewu wup tehowrez to ojedo rusurna gebuzokop fozmogo boro se rehafba wuti."
+  },
+  "apiKey": "13c122bb907fc3115623bab42e2e25696d11463167c9979c8e8c8a3403694052",
+  "currency": {
+    "code": "PLN",
+    "name": "Poland Zloty"
+  }
+}
