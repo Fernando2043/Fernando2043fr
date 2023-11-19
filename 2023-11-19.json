@@ -1,0 +1,26 @@
+{
+  "name": "Eula McKenzie",
+  "age": 43,
+  "address": {
+    "street": "Ogije Turnpike",
+    "city": "Bedavres",
+    "state": "NY",
+    "zip": "89324"
+  },
+  "contact": {
+    "phone": "(712) 473-2144",
+    "servicePhone": "800633641"
+  },
+  "birthday": "2000-02-02T12:51:46.370Z",
+  "ip": "138.139.248.88",
+  "foo": "bar",
+  "profile": {
+    "about": "Feppile um rapimu dezhuh bafjuv nogefso de go ristaw ulruar evahegar dala si dajij licojeli. Idti hetbig kop ceremtij bi cow we sicmed gapov gatlu bos asmo wiewaihe kaguc arisa nidsewes mioso. Zurada fah doozgi juciw dod pu ew wa bijjo ise mikwo hewege rojfu wussin. Ufa sezocto igedop pa ocofiwfo puwu viw bo imilev hine faksozof raw.",
+    "bio": "Ofunor hiw sizciopo uvekadmi muolegir je kahisib si puvforfit pe gahoej wesuto depikena. Tid fo ope depat govehoto ugbo va vaj ejmu guz veleadi gumhoc. Mok vikza si kifak warin icaosa jimwac vah pewuj zucnu cucogpi osmanweb doetele uf hin uzhu wusita."
+  },
+  "apiKey": "5f681f13a3eb0d8cedfb880496543559bacee339df5338c8e14793dfb53c17e2",
+  "currency": {
+    "code": "SZL",
+    "name": "Swaziland Lilangeni"
+  }
+}
