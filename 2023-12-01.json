@@ -1,0 +1,26 @@
+{
+  "name": "Ophelia Gregory",
+  "age": 52,
+  "address": {
+    "street": "Bare Heights",
+    "city": "Sicaval",
+    "state": "DE",
+    "zip": "15123"
+  },
+  "contact": {
+    "phone": "(721) 492-4126",
+    "servicePhone": "800728921"
+  },
+  "birthday": "1980-02-09T06:40:47.820Z",
+  "ip": "153.172.97.14",
+  "foo": "bar",
+  "profile": {
+    "about": "Ab lombu keemo zecgali lo uke babga sujmov zo je vidoeli in hudihtep vojuzafu osiflep cejfo cauveob. Wem lodawgoz irurase niczaztel napkitito wiszu ive levtu eminu joebnu isu otwobeni wa me afaheppu miktafi. Rauke ge po vujad dum ehcurva kaleho zuhma pi otowez tow afida uv ijekunoc alamag gu evfu.",
+    "bio": "Apomaskis kam owpetaf lo veta odowug are ge pi ozciw avne hosokha dawzo gilwogam. Pamkoggiv lowdozne jedbubrul zina remjupe hojab cugzujul rud ju pes nu ah zioblo sidudju te. Bustetlu bimew nu deblik fahi comose eniata sesodvu fuznaj ajerok vunow coahu gizsizkoz fajbof sud."
+  },
+  "apiKey": "4b130f1c5b714284af069025508c92dad8f1fbdf33efe7fba304970da1485889",
+  "currency": {
+    "code": "SEK",
+    "name": "Sweden Krona"
+  }
+}
