@@ -1,0 +1,26 @@
+{
+  "name": "Francis Hardy",
+  "age": 49,
+  "address": {
+    "street": "Korto Parkway",
+    "city": "Jobiuf",
+    "state": "CO",
+    "zip": "11792"
+  },
+  "contact": {
+    "phone": "(212) 227-9562",
+    "servicePhone": "800199771"
+  },
+  "birthday": "2002-06-19T04:31:04.447Z",
+  "ip": "253.201.138.36",
+  "foo": "bar",
+  "profile": {
+    "about": "Jeru rucula saw uwo jalhebru ulgisote bupopso fajsag upsili ogefuje navpok humjamgi fem tiv dev bilala. Buden uw homo rewlu saz zed ep uboraovu bi ecuvagru vihru ojebuz cihjawna kopdobcik laljaw ze wewbugu. Ziepi bi velvoc wep dic raje ji owi petocdit dat mufegpeg owijeczuw dutijob hatepa pa kacubbuw mobpujnir. Puj ba lewmefgum reg rilar zicni oda re wivu vevroz bumdebafe mihwi higfo ragwuw lon pucoda buvebwu.",
+    "bio": "Sepaklur deho lu inci mi baefpez fi lalos taba la relhogir onuzarane okeju meznerdi kaknu rioviake se esi. Zarub jac nij pa ravpe pikluh ze hadcusliv naz dud isa dehi imugulgu howcak akeimi. Uj jaruker tebjohiwu raz ramheh cojofkan dodib uziotev val telrihi alzavlo duj ajocu zoma aveziw rovde. Segednu bud rebro vuhonhe ir dowpaze efuloc wi sugite kogbiz iwilihel lujir hu osido emoum."
+  },
+  "apiKey": "2f255da9450ba84c42bae1de54471ab528ef62338955eff7448696b304a08f60",
+  "currency": {
+    "code": "FKP",
+    "name": "Falkland Islands (Malvinas) Pound"
+  }
+}
