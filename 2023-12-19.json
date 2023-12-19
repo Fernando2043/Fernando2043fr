@@ -1,0 +1,26 @@
+{
+  "name": "Sophie Poole",
+  "age": 63,
+  "address": {
+    "street": "Hidam Key",
+    "city": "Minesak",
+    "state": "MT",
+    "zip": "82427"
+  },
+  "contact": {
+    "phone": "(333) 979-8164",
+    "servicePhone": "800794714"
+  },
+  "birthday": "2001-07-29T12:41:53.051Z",
+  "ip": "17.62.44.246",
+  "foo": "bar",
+  "profile": {
+    "about": "Hir son sowhonhi cezickof itgo tivobuile fepkalef jo gocnisa fapu ose fiwivof funje tosa. Fefe cejak soribabu huwsicu mek giggihu befsobji delaw vouz racfestu habsu adeh jeb zakijnep wevhad cobatoga. Jowhes nehisoze to upindew nurur tofbo hoh eb fuf zussuf lew cuilofep ipioce uwanevco olafon badpe maz.",
+    "bio": "Sefbial fa ac iwijow cadose we taduwuz neefubu mum latiron kohogir mof. Oglas biad wifewa si cocvepwo di vekuho negu naorfa vofum rerguz riwlip vinlis unatupe dekwor. Zu ifkot kus pahivu pehbobjof odoso sisandus rel fendujcib hoz modwazu pisuludi kuus ebagojod ogcak gej azpof."
+  },
+  "apiKey": "7495af54b39bbb3b68c3d055b15d7dac1a5b1f7f238bdec9557614641bf18c57",
+  "currency": {
+    "code": "ZWD",
+    "name": "Zimbabwe Dollar"
+  }
+}
