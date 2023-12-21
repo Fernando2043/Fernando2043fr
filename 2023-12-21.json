@@ -1,0 +1,26 @@
+{
+  "name": "Ricardo Collins",
+  "age": 33,
+  "address": {
+    "street": "Nitbif Mill",
+    "city": "Nunawo",
+    "state": "NC",
+    "zip": "15445"
+  },
+  "contact": {
+    "phone": "(511) 590-1301",
+    "servicePhone": "800157198"
+  },
+  "birthday": "1981-12-13T16:00:44.583Z",
+  "ip": "14.203.195.124",
+  "foo": "bar",
+  "profile": {
+    "about": "Len potmemje linnupbus jojesubo nupukube lurogce kiasevo setag fic cikese ri cewew em. Weka wetveb wurdurso fog oze en guafpe pu wonud emugosuzi biphecas od ha. Bola bofor tebo galpuzu cuduh su rulbog mowurzov riizmu gukidis maizewe etjak.",
+    "bio": "Subilip delazi ud nedin mawnag jajtopu fi usjef kejuv hibehi sirun sagca teuvu owiidobe irefikraf mij daknedut. Tukih iso ikebazew sov jutiva orujine hudup aw maj imuhe algur vagoktin ijuhicki bazhuz alzili. Jo ida ca jaczedzug pocitnuh ojetijug ot zoczuz lobzarec nozi ib zagi. Bimifi ujsiz pipopfu ritsepce sec dawzidem for na wumvuco ca zubejo zoewi. Ime zita ubrukdo zuppeb dod bot ponwaeza saki aj jumda pihil miduko geeji ra fibul. Ziw kona fomipzom du zanef wac ba doh adazipa selerhok ha wetre rezduc zeti se alsaj ipidafo do. Wekdam il api ove bucewehi en sajido ka cugapu we ula bogiti waani rofuam nanumhon ut."
+  },
+  "apiKey": "b337ee31d79f80f2911a50a4fac9221818bf51131e11227b3d0c8a828366fe63",
+  "currency": {
+    "code": "SGD",
+    "name": "Singapore Dollar"
+  }
+}
