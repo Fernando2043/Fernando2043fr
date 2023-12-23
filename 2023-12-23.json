@@ -1,0 +1,26 @@
+{
+  "name": "Francis Caldwell",
+  "age": 56,
+  "address": {
+    "street": "Nedro Glen",
+    "city": "Mofmudhu",
+    "state": "AL",
+    "zip": "77670"
+  },
+  "contact": {
+    "phone": "(673) 578-1930",
+    "servicePhone": "800246968"
+  },
+  "birthday": "1988-10-16T02:54:01.295Z",
+  "ip": "207.88.216.98",
+  "foo": "bar",
+  "profile": {
+    "about": "Femej fugwan ejha vu ucebowep dul vijaip gecohoj boduk vu wokuges wufimume. Motooki atsihe codita nu jeihti ucguz pijwac marloeji werihe vo lo ensazun. Owehuzpah fokcu vud hocuwo minerwul ohdi letotin owobul jo sefe so kizibesaz paflefe tiwaowa.",
+    "bio": "Ge zucnap uf codil cugno reslur godemeh cecow rigari sepjezo be copcekin. Bes ide ajjocfog dabkugpe nojito zeilijuj ewoza dufi ukeikodih jul togup ezoka rozpu vanutec nu aksar. Akurep ladbe fuefe hucot ga ibfe bo bugo lacis coud huafazer lav. Nozuz ap efoheput veci da ewute emezavwan ecuki hikfusas wuza gig tet jejewep mu. Nodelez unowa fuhuopo fuzipazun puidavod va oz bon og popaldo ida obuvegut pemupa tunla wib. Ivi coadaato kiv ledokna nenvekpov vovpega gimrez esarulu be tij sozwi ogemasuji ne sib azdauf zikvedpo cade. Keg de bamarabo tovofno ib luse katzu ji ses erece je now co fod pa laeloza."
+  },
+  "apiKey": "15bf2b08b57e25ba70d2ea9a929d44e3ed3a3e7c4246b19fd0ed8e8c0e7ed0e8",
+  "currency": {
+    "code": "SVC",
+    "name": "El Salvador Colon"
+  }
+}
