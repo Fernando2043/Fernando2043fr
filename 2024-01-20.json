@@ -1,0 +1,26 @@
+{
+  "name": "Robert Ruiz",
+  "age": 23,
+  "address": {
+    "street": "Urore Pass",
+    "city": "Feptacun",
+    "state": "NJ",
+    "zip": "19397"
+  },
+  "contact": {
+    "phone": "(312) 478-2437",
+    "servicePhone": "800815338"
+  },
+  "birthday": "1984-11-04T17:58:44.623Z",
+  "ip": "103.238.152.208",
+  "foo": "bar",
+  "profile": {
+    "about": "Davris ku ebasuthu zubpi ubbu wir utibnov fa gosur nev tunur ah fadi ofu udojuvpeh tibe dah. Vovihuer fa jal ubnijad luzgigwak rofik ziro fe wafkab sob setedim befij emteljul. Iwemigu ofru fokno nel pa gicapicu bu megebji fabi lebseh emma fugsadu wuaz azumi femnatjiw ren. Binitozo ahewu osedeve oldunive nemedbi gip jo oru jerub gutabsoz cu eka fivninu gesavam utnazeh riricid vazocota. Mipowda ehobupic tir joj tub oweuruahi kelutjuz reh vosfa tuk okabuz ihumabu en rodevbug joriz pulam doduj jag.",
+    "bio": "Cid iwi fi teb polta piwto sewovov sarvit for ziwohpa pa taw hemodu somegohu omoijonuj. Jucewe iv laleup ufuizihon efo nija teptado ba daglodi akubi new se. Ento jasdo pagve koelreg dak vef son zuhfusbu ticmic dikutke ewi wi ojage sutej oduzi ebrewvu fupesuce. Ezijerej teluh sohim fam pik pas no movvisej sobenun uri te peguj cofekhu ci kavviz."
+  },
+  "apiKey": "c75a661755a6bc33b49bd2ac07897038045e04d859a8e0fac68f7d4633cf13be",
+  "currency": {
+    "code": "JEP",
+    "name": "Jersey Pound"
+  }
+}
