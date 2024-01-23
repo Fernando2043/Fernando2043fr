@@ -1,0 +1,26 @@
+{
+  "name": "Anne Tyler",
+  "age": 31,
+  "address": {
+    "street": "Modtuh Junction",
+    "city": "Joruugu",
+    "state": "MT",
+    "zip": "86188"
+  },
+  "contact": {
+    "phone": "(905) 340-7417",
+    "servicePhone": "800128375"
+  },
+  "birthday": "1992-11-21T20:34:32.440Z",
+  "ip": "195.149.22.10",
+  "foo": "bar",
+  "profile": {
+    "about": "Re teufo fehhupen owo filhazic ik mopwupe zezo jikmu kur ulcuz setwikem bojjiv inse ev ekaceoc vuhutop vu. Lef atkennop in um oso gabino kitdom fejag epoku tiz cegcupa ric ga ta uhobezju hojufgu zazo nigug. Tebjiszu bu nawijo kadek pu ego saklij ihro elokud nigmagzic ma mat zibase ji degmubuf rinvo.",
+    "bio": "Ascize vi zu efonu ti zawekne uwete kalobum zetozo li okruwud ev wes nuh. Caluj girut fepwucec koz nauvuci ha fugto piilad ge bibu gata baon ab ga timetup. Wecnuzhi beocewec janesud wafwor weet ru pavoctaf sezrifem jabeva imanulot fiv nuduvken foigsa iji. Gir zi oja tocgut ibimilop ropap ubaci su kuctokezu wunu tojed was kovemwin fu pal. Zubkal zisespo sogafbi inepuasa ehehip cokgal ase osavirji sikomge upa re pu gupa ahahi metirve kiv jurigi. Kuldah we fueda hekfin mik kuzjosipo hevoati wiusi buzde cizejoda tofap vonober onso uguocuuda nolle tep fulkof."
+  },
+  "apiKey": "583c743828c0876b074a656a84b9b415937f0059fc89153838c1db263028f9ef",
+  "currency": {
+    "code": "LRD",
+    "name": "Liberia Dollar"
+  }
+}
