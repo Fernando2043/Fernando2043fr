@@ -1,0 +1,26 @@
+{
+  "name": "Sally Gonzales",
+  "age": 20,
+  "address": {
+    "street": "Luwo Turnpike",
+    "city": "Fivorzo",
+    "state": "NY",
+    "zip": "63116"
+  },
+  "contact": {
+    "phone": "(264) 874-2118",
+    "servicePhone": "800358166"
+  },
+  "birthday": "2001-11-17T06:09:17.056Z",
+  "ip": "2.147.206.202",
+  "foo": "bar",
+  "profile": {
+    "about": "Mavabi hifhiceni fabo umi wojepa jubeli eggal erfaz ginarob fa revibu ipe cak mezjuok jeulisec. He vekla nah ejudojpuf rez ew vewuhreg unjifej wuhwod rihil davuita ovuaghij wozzuet kurif ov rogrelkin. Eci naoka giwo luh putahah timotwun himete soh dopaj siwugja gup aci foluksu himide la cizjunav.",
+    "bio": "Decipode rivob kaehrew en oj bew kej uhce sitev hefvibaz surecapa acafi pe. Nawon zi lebu fopepuri niol dulubi piv gefu dag culokgo subi jiharefo taka sap simuos. Rac rug zemkikpi codtad je fut fotemez baclanuc uze jopa beziz vowebhi bac wijcagvim ke. Domludu adufa re men cicak wi agu icvewfed zolsifga ba dub ketpen pujupen ag. Moajepis aji lakup we rudopus egunacaw fenujova ripop ezoruri ravfuim ji nupaf vun tisluw puzwu. Me icdu gacro upjo pemnennid jegmeg ci nircanhuk tuh averu ifojufir atofik ujacohsop hevetok na ro."
+  },
+  "apiKey": "d26a4be834da1519666e8cbac8e93fd816f6240998cf5b8be4081b4835d5c18c",
+  "currency": {
+    "code": "MYR",
+    "name": "Malaysia Ringgit"
+  }
+}
