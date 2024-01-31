@@ -1,0 +1,26 @@
+{
+  "name": "Lucy Dennis",
+  "age": 26,
+  "address": {
+    "street": "Ocpi Center",
+    "city": "Katiohe",
+    "state": "WA",
+    "zip": "07875"
+  },
+  "contact": {
+    "phone": "(809) 566-2333",
+    "servicePhone": "800322352"
+  },
+  "birthday": "1986-11-12T02:07:05.151Z",
+  "ip": "41.97.204.253",
+  "foo": "bar",
+  "profile": {
+    "about": "Zatgommub mehawul ca za wammahe tezzevo wutloltuf meetahu lab rap cofednuz gu leckennij inahi gasjolguz tofkak sonid osusa. Okufu ronuvvo geg ladaip fangirvef efzac cu agipa pasfiver ve galo torowa iflibif noha lavleje. Olemuzaf sebafho cok raludlum woh po emtukwi pumo keb juslisa vobge zut umvecamu ze itzaar.",
+    "bio": "Fibig nu haf mupabwa kebehfe gulilmec dupocup me vaj rices wumeb vetuh. Gacbupja mo ajvogubi kov kumekbe rezhakecu bonlo vetpozu cagu riwucan tiv bicli lasoz pa tevecan. Jipa bok denzi ebu fuheka ba ehafo nud wasaaf sa hom rivro ne unulac ivmoj."
+  },
+  "apiKey": "ff2e2f0ca33b89b2d9dce1b5a0ced4abb3df6fa54650f7a82eec6f7020d8287f",
+  "currency": {
+    "code": "KYD",
+    "name": "Cayman Islands Dollar"
+  }
+}
