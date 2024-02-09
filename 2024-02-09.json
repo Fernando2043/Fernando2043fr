@@ -1,0 +1,26 @@
+{
+  "name": "Benjamin Henry",
+  "age": 22,
+  "address": {
+    "street": "Dori Lane",
+    "city": "Wozagre",
+    "state": "ME",
+    "zip": "32297"
+  },
+  "contact": {
+    "phone": "(322) 667-5700",
+    "servicePhone": "800436612"
+  },
+  "birthday": "1995-03-05T16:47:09.212Z",
+  "ip": "119.190.37.4",
+  "foo": "bar",
+  "profile": {
+    "about": "Bo zojoga kewiur ded po dale hocuvso peprad diz viv umvac ajfaf kosfese pibcog hargev ruwib ciciwcuj. Nasguka japola domboit vawwog wicejus zofpehupa sod aza olu wo ahuwi upeje hiha lujranec rumpew. Onokirotu koluci wev pu dewmonir dilpahe hu suckebus becavatip dak zidlavis pa. Kiokadi ewejom favew riiftoz amesac vip ne hu uvira ikziali rempiluc fol. Envatza lizuati duw ojufewruh tezurol huldi ju raliber arizoir udugu bojizu aj goaccej. Ciscuze teonca idocun waw dafize giumbuw ewuseh igemo waj oca vetoon rijajgi foftu. Weswu bi vinrouz nupjecvab cavepo efune jeip huf lomvosap wuogu has tornogo.",
+    "bio": "Jaw najdiz irhinafe tabe apisewhaz ze fov is be hib lu secmo lawwagcos ric raovalo. Sivewzo hen gahwe peobila jek lejne ligjom epvuzjas natusohu bizkifaj wu ezwej hos toigeba. Hipan hukcitruf nulokowil neig aroiha ugbewin sihpofde usobos coj oli isefual ajmaje. Viwkud gahluza bulupebah rijajse luz refi saetuwes fe vihwilgi navuhcic sazhejah nockopun cuvon zieh esrev. Biltarej ome kunbu silkal jigtiji fit ku wo hodoh hit vapwih mo jov ewtotcoz uregu duw huhaw gi. Hugvi supus la adukure sohzi at focud zef sel cod hacaha bin."
+  },
+  "apiKey": "deb32582932c83dfa02a31a6fdd8d3a72cbad5539c00ac4921a63b0870db64e5",
+  "currency": {
+    "code": "HUF",
+    "name": "Hungary Forint"
+  }
+}
