@@ -1,0 +1,26 @@
+{
+  "name": "Jimmy Hunt",
+  "age": 30,
+  "address": {
+    "street": "Kavan Drive",
+    "city": "Jumuga",
+    "state": "NJ",
+    "zip": "41753"
+  },
+  "contact": {
+    "phone": "(763) 822-7667",
+    "servicePhone": "800376265"
+  },
+  "birthday": "2005-03-11T06:32:47.987Z",
+  "ip": "219.102.226.151",
+  "foo": "bar",
+  "profile": {
+    "about": "Lucodizem suw vas uhanogos lobna ha hotuwza fi nooh zivuguke sesoko sid neitnap negho oko nuogejur. Dig inazjim hejdane osu hol pejrih de tiiso rir ma di ru ebacop ito icijoh bujosken. Duleh gugbepwo gujat itbor koemusi nilobu nofzutuf ozosun ko uzo ef meeteehi lemwud das mika geokhep. Mehde se widudadav hocmahuj hukilwom pen ire sepav he imaw owpom datukasu po. Ati fiak bovinpa pa vemih lezenif neli du ruklefe rinzu ulkahu olmegir as vepatu. Lav pemil lulsi me wonepto zanhobcas jitna janaga walfo wieki ukicoba vi hu hokzarla fulijbow ruhuri gikhu.",
+    "bio": "Igra vivom puh me zekuv vezfaz lawaj jimhew wojjaz ro pun daji muujzov viwa kut paumtof golli il. Luslalah ef mi gillikaf borojew nuno otufere akuzijteb gugobi ketve iri ca tiv fugmuh zeene. Go do cohfec ga tiji wovo vevo obevma he ipo cuvize papu kin micpicza vockiji sobcilun juguj cabadec. Tuhe agus wupig ojirak lochocpoj tilcudlah em icnu tihrel wahat luzefpa rojmoti pis aslizap aso dimwu."
+  },
+  "apiKey": "71d5792902ed37ada1b38ffa39617fe89dbfd0852ff0c3c1d65d32293c1bcfff",
+  "currency": {
+    "code": "XPF",
+    "name": "Comptoirs Français du Pacifique (CFP) Franc"
+  }
+}
