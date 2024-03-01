@@ -1,0 +1,26 @@
+{
+  "name": "Patrick Jackson",
+  "age": 47,
+  "address": {
+    "street": "Nuta Heights",
+    "city": "Povcajeh",
+    "state": "MT",
+    "zip": "58759"
+  },
+  "contact": {
+    "phone": "(787) 741-1909",
+    "servicePhone": "800638421"
+  },
+  "birthday": "1987-01-10T09:50:48.388Z",
+  "ip": "200.90.127.157",
+  "foo": "bar",
+  "profile": {
+    "about": "Ora kuc ate evhinawo pi ifuza ilefulufi appour ele suarja jife ka ahu mujophiw hewami. Amo baasa mow me mokezu um tagdumu nuito ole sa hidurofow turib rivfawji wuzi ub. Otab dereg uba guden na wupsic omuzus waifepum paadigo divca bahujlof tiz bitezidal budso.",
+    "bio": "Iga azepo emuluuk ej fe movdommu ocfote sigdo li la reh jev taki owa utsodu. Av mibok wezaj wanmu bifne cuitev he vugugo faci ataezi isekomig ilwi zetuon vu do cibdew el. Fuzhagote zefe ko lawor kofevri mico sisdose miatifov daw hisi puvig wonego vagzotil kem nad ola. Fof kocguvoz safakuk watimket wot zo kocjojam tizmo za buok avzi ta amerab ec ew ru itozemod rom. Kabbewa we loba ovefurwot vuuz lid iwugogo obbiula asojawew or regho fupkic."
+  },
+  "apiKey": "81d3898b4c69a11399877e5d7a6289aadbc8c15c59ed251f0659936181e29595",
+  "currency": {
+    "code": "TZS",
+    "name": "Tanzania Shilling"
+  }
+}
