@@ -1,0 +1,26 @@
+{
+  "name": "Maria Luna",
+  "age": 21,
+  "address": {
+    "street": "Mide Circle",
+    "city": "Gapuzunif",
+    "state": "MA",
+    "zip": "81014"
+  },
+  "contact": {
+    "phone": "(411) 565-9756",
+    "servicePhone": "800511894"
+  },
+  "birthday": "1970-08-02T19:25:24.902Z",
+  "ip": "12.156.20.17",
+  "foo": "bar",
+  "profile": {
+    "about": "Sun jikemrof kiv mi focib kalfifpaz teheko im sevwur hekvunhi pugu tujef be odvo. Jut tob ecriwok pam fetki tuteoka lif na zo igibbi nare etuvi anlomje ifoilo dekri. Mu niawu jikuhsul gutzisib kup ce hevof ishipola buzte caw vum tuvuw kupepahe.",
+    "bio": "Hah hule cususo lake jobtez ku ihzowus veecza wugev womuj cam gadenpi ez. Bilu vobe ze ecluc lalazmu cecosu eru udohihwof opeujuik pefen vifigta daca lajepwi vuzhi. Do dalto ilamanku weuvo utoc mi uf sina da vivi mufta nubjis filuom rauduhuj sirluaki. Pov po nepub uc og mohurrok ji tegu im ziowwi isawud bu gi. Mihwehce jishe daziwera pij evoraw zu pagis cusan moojaaga gigmol nil pe is."
+  },
+  "apiKey": "e89d782f93141a5bd5b25e334bb84f1897a9508bc4271c8ca9f5d9765e88cd8e",
+  "currency": {
+    "code": "UGX",
+    "name": "Uganda Shilling"
+  }
+}
