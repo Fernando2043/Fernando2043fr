@@ -1,0 +1,26 @@
+{
+  "name": "Herman Anderson",
+  "age": 43,
+  "address": {
+    "street": "Dawob Center",
+    "city": "Gupohejo",
+    "state": "TX",
+    "zip": "83918"
+  },
+  "contact": {
+    "phone": "(839) 778-9246",
+    "servicePhone": "800122627"
+  },
+  "birthday": "1977-03-31T06:55:31.158Z",
+  "ip": "174.96.55.144",
+  "foo": "bar",
+  "profile": {
+    "about": "Zeh otlardok niwu po uggo ogekujic hoda lovlifba ak ocirocoru rob etiuw ibuheji ozisos odijic. Igorohun kawzu mibejudo caveh gis evvu rel bu zer gi beba fe mi kor kovagak ij vi te. Do rudeh wepoiv pu ruj em kow ojva wubirsi refaz naw pib fakezmo abooceza lejuncuh silicu ladez vo. Zob musagu bilwel gavzasup ba senpuz oziemuuz ceve uninuz donwajewi kidoprih lub tukacfu litujeka nefofe hevvu jovwinat zat. Duwehli do zo zececlan porla pi el cuweh dur coomu doom wep za utited me acfan savizziz. Feuku geulusi ebi oluifgin botjuh je juc depivtoc madaz bol zufpeg eje.",
+    "bio": "Iraheeh dap buji gac jupas avaje wa kuhori bumle op cames fadezla fum rubenaz epualoda vu. Ewepatnu zap camwo rez aki tu obsace ak horigce jujvapof oso ulitidzo. Sakagco ehpoh oco ut hik meal vu jozamrah zev neuda dosibenu me jekzelke. Gap rav rasacme niben ziduk cuhmafu dojribfe wefdivki ceh uhiwucako zoatmof moze ce fuh."
+  },
+  "apiKey": "c3712fb10ca89d2e1efe5150ce46a17ff0441b46f6104c9c0ab514ffb5ab7c0f",
+  "currency": {
+    "code": "BWP",
+    "name": "Botswana Pula"
+  }
+}
