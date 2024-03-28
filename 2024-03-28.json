@@ -1,0 +1,26 @@
+{
+  "name": "Jean Riley",
+  "age": 22,
+  "address": {
+    "street": "Unore Highway",
+    "city": "Ebuzuva",
+    "state": "MO",
+    "zip": "79250"
+  },
+  "contact": {
+    "phone": "(413) 697-7214",
+    "servicePhone": "800596145"
+  },
+  "birthday": "2001-10-10T10:25:35.025Z",
+  "ip": "253.138.48.19",
+  "foo": "bar",
+  "profile": {
+    "about": "Bigosjep pusoh wof mul pid accet fojuwa kig boheg dawmetazo ko hev ruusu sasuko jejetewi siahjip ki. Tatobufo osavaf bu notajvi vubowu ugocup fetu jinew kigo fol feva te uneso bi. Er dimo gifemzi pubcan hewilida weeh fe ticuf vupun ug nipejo foiczo kadehlac. Radi jif cewulo simti cigi ji pigkoiru jorun gavugji jefceah odawil adofow ocuuje hurzodu reet is.",
+    "bio": "Ufuvew johuru mijoho fetwocum cubize pamegez owcagjak majci zuven nin itfabho ikolagbo beswi. Ivesavewi cil femcovfu de etuuwafa gufuf fofev botzi in mub lut uleami naw pinpat. Busic dapefe wek vakoh fiucvo se olotu ijfe awutu hac zepe pitileh apujosove fan ed."
+  },
+  "apiKey": "742495a5f695970672a6497b40281b84820173199637b1c01b3dae6d06fd5eb1",
+  "currency": {
+    "code": "UAH",
+    "name": "Ukraine Hryvnia"
+  }
+}
